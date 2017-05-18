@@ -1,2 +1,3 @@
 node_modules
 src/videos/small.mp4
+src/client/app/assets/videos/*.mp4
